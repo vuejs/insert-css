@@ -15,6 +15,17 @@
         "type": "git",
         "url": "git://github.com/substack/insert-css.git"
     },
+    "testling" : {
+        "files" : "test/*.js",
+        "browsers" : [
+            "ie/6..latest",
+            "chrome/20..latest",
+            "firefox/10..latest",
+            "safari/latest",
+            "opera/11.0..latest",
+            "iphone/6", "ipad/6"
+        ]
+    },
     "homepage": "https://github.com/substack/insert-css",
     "keywords": [
         "css",
