@@ -2,6 +2,8 @@
 
 insert a string of css into the `<head>`
 
+[![browser support](http://ci.testling.com/substack/insert-css.png)](http://ci.testling.com/substack/insert-css.png)
+
 # example
 
 suppose we've got some css:
