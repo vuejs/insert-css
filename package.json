@@ -1,5 +1,5 @@
 {
-    "name": "insert-css",
+    "name": "vueify-insert-css",
     "version": "0.2.0",
     "description": "insert a string of css into the <head>",
     "main": "index.js",
