@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/substack/insert-css.git"
+        "url": "git://github.com/vuejs/insert-css.git"
     },
     "testling" : {
         "files" : "test/*.js",
@@ -23,7 +23,7 @@
             "iphone/6", "ipad/6"
         ]
     },
-    "homepage": "https://github.com/substack/insert-css",
+    "homepage": "https://github.com/vuejs/insert-css",
     "keywords": [
         "css",
         "insert",
